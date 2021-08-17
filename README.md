@@ -1,8 +1,4 @@
-Hi there!
-
-Good day. I am Juhyun Kim who is interested in Web Development from South Korea.
-
-If you want to contact me, please leave me a message!
+웹 백엔드 개발자 꿈나무입니다.
 
 # ✏️ Experiece
 
