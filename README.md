@@ -11,12 +11,36 @@
 
 
 
-# ✏️ Experiece
+# ✏️ Tech Stack
 
 ------
 
-## SSAFY 5기
+```
+class Profile {
 
-- 삼성 소프트웨어 아카데미 5기 활동
+    static final String USERNAME = "KJH-Sun";
 
-  2021-01-05~2022-01-05
+    static final Map<TechStack, String> TECH_STACK_MAP = Map.of(
+     
+        Backend, Set.of(
+            "java", "Spring", "Spring Boot", "JPA", "QueryDsl", "myBatis",
+        ),
+            
+        Frontend, Set.of(
+            "jsp",
+            "javascript","typescript",
+            "Vue", "Vuex", "Vuetify", 
+            "React", "Next.js", "MUI"
+            "React-Query",
+            "styled-component", 
+            "HTML", "sass", "scss", "css"
+        ),
+            
+        Database, Set.of(
+            "Mysql"
+        )
+        
+    );
+
+}
+```
