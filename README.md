@@ -19,7 +19,7 @@ class Profile {
     static final Map<TechStack, String> TECH_STACK_MAP = Map.of(
      
         Backend, Set.of(
-            "java", "Spring", "Spring Boot", "JPA", "QueryDsl", "myBatis",
+            "java", "Spring", "Spring Boot", "JPA", "QueryDsl",
         ),
             
         Frontend, Set.of(
@@ -29,7 +29,6 @@ class Profile {
             "React", "Next.js", "MUI"
             "React-Query",
             "styled-component", 
-            "HTML", "sass", "scss", "css"
         ),
             
         Database, Set.of(
