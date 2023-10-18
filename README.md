@@ -21,7 +21,6 @@ class Profile {
         ),
             
         Frontend, Set.of(
-            "jsp",
             "javascript","typescript",
             "Vue", "Vuex", "Vuetify", 
             "React", "Next.js", "MUI"
