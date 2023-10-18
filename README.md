@@ -1,6 +1,4 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJH-Sun)](https://github.com/anuraghazra/github-readme-stats)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wngus7955)](https://solved.ac/wngus7955)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngus7955)](https://solved.ac/wngus7955)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=wngus7955)](https://solved.ac/wngus7955)
